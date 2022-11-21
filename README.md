@@ -1,4 +1,4 @@
-# Giovanni Mugelli
+## Giovanni Mugelli
 #### Software Developer
 
 Non sono Steve Jobs e non credo che lo sarò mai (meno male), ma in 6 anni sono cresciuto in realtà innovative e giovanili, con stile carismatico, dinamico e pacifico.
